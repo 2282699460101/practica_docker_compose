@@ -24,6 +24,8 @@ un backend en Go, y como base de datos utilizamos MongoDB.
 Para el frontend y el backend se crearon imagen en docker y se subieron 
 al dockerhub.
 
+![Docker Hub](Img/ImagenesEnHub.png)
+
 Luego se utilizo docker-compose para crear una instalación limpia de toda
 la arquitectura en la cual cada componente depende del anterior para realizar su 
 correcto funcionamiento.
